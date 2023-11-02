@@ -1,5 +1,5 @@
 # Facade Pattern
- It is a Facade Design Pattern is a structural design pattern that provides a unified interface to a set of interfaces in a subsystem. 
+The Facade Design Pattern is a structural design pattern that provides a unified interface to a set of interfaces in a subsystem. It defines a higher-level interface that makes the subsystem easier to use. In simple words, the Facade Design Pattern is used to hide the complexities of a system and provides an easy-to-use interface to the client using which the client can access the system.
 
 
 # Simplified Hotel Management System
