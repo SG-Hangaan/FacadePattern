@@ -15,7 +15,12 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 - HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly. <br>
 
 # Implementation of Adapter Pattern
-
-
+![image](https://github.com/SG-Hangaan/FacadePattern/assets/127215110/b8066552-a0f0-474e-9918-7d3b4a1cb1a7)
+![image](https://github.com/SG-Hangaan/FacadePattern/assets/127215110/20ec21e8-c01c-4521-a7a6-c495876b9f7c)
+![image](https://github.com/SG-Hangaan/FacadePattern/assets/127215110/59cf6c65-d85c-4f81-a934-9e8fc5a24842)
+![image](https://github.com/SG-Hangaan/FacadePattern/assets/127215110/25bed4bd-fcf9-417a-a484-742b96204030)
+   
 
 # UML Class Diagram
+
+
