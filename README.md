@@ -14,7 +14,7 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 - FrontDesk: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services. <br>
 - HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly. <br>
 
-# Implementation of Adapter Pattern
+# Implementation of Facade Pattern
 
 <p align="center">
   <img src="https://github.com/SG-Hangaan/FacadePattern/assets/127215110/f60d6897-ac62-4d1a-99d5-29391035d2c1"/>
